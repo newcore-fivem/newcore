@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- ♾️Newcore work in the QBCore System in FiveM [https://docs.qbcore.org/qbcore-documentation/](https://docs.qbcore.org/qbcore-documentation/)
+- ♾️Newcore work in the QBCore System in FiveM
 
 
 <h3 align="left">Connect with me:</h3>
